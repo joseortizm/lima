@@ -52,8 +52,7 @@ const Mentors = props => (
     <p style={styles.p}>
       ¿Tienes experiencia con Node.js y JavaScript y te gusta compartir?&nbsp;
       Contáctanos por <a href="https://github.com/nodeschool/lima/issues/new">GitHub</a>&nbsp;
-      o el <a href="https://holalimajs.herokuapp.com/">Slack de LimaJS</a> para
-      poder contar contigo en el próximo evento.
+      para poder contar contigo en el próximo evento.
     </p>
   </Section>
 );

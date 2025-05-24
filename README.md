@@ -24,8 +24,7 @@ alojados en [Laboratoria](http://laboratoria.la/), nuestro principal sponsor.
 ## Mentorxs
 
 Tienes experiencia con Node.js y JavaScript y te gusta compartir? Contáctanos
-por [GitHub](https://github.com/nodeschool/lima/issues/new) o el
-[Slack de LimaJS](https://holalimajs.herokuapp.com/) para poder contar contigo
+por [GitHub](https://github.com/nodeschool/lima/issues/new) para poder contar contigo
 en el próximo evento.
 
 ## Sponsors
